@@ -1,0 +1,15 @@
+* {
+    background-color: aliceblue;
+}
+
+.button {
+    background-color: red;
+}
+
+#heading1 {
+    color: blue;
+}
+
+.button_1, .button_2 {
+    background-color: red;
+}
